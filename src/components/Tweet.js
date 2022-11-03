@@ -1,5 +1,4 @@
 import ProfileImage from "./ProfileImage";
-import Img from "./ProfileImage";
 import User from "./User";
 import Timestamp from "./Timestamp";
 import Message from "./Message";
